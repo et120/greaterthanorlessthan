@@ -1,0 +1,42 @@
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\bin\Debug\net7.0\minichallenge4.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\bin\Debug\net7.0\minichallenge4.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\bin\Debug\net7.0\minichallenge4.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\bin\Debug\net7.0\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\bin\Debug\net7.0\minichallenge4.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\obj\Debug\net7.0\minichallenge4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\obj\Debug\net7.0\minichallenge4.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\obj\Debug\net7.0\minichallenge4.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\obj\Debug\net7.0\minichallenge4.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\obj\Debug\net7.0\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\obj\Debug\net7.0\refint\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\obj\Debug\net7.0\minichallenge4.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\obj\Debug\net7.0\minichallenge4.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\minichallenge4\obj\Debug\net7.0\ref\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\obj\Debug\net7.0\refint\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\BorontrotterEMiniCha4\obj\Debug\net7.0\ref\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\bin\Debug\net7.0\minichallenge4.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\obj\Debug\net7.0\refint\minichallenge4.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\obj\Debug\net7.0\minichallenge4.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha4\obj\Debug\net7.0\ref\minichallenge4.dll
