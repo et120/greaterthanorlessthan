@@ -3,7 +3,7 @@
 
 **Name:** Elizabeth Trotter
 
-**Description:** Learning to use relational operators in `C#`.
+**Description:** Learning how to use if-else statements in `C#`.
 
 
 ---
